@@ -1,0 +1,15 @@
+{
+   "name": "komply",
+   "version": "1.0.0",
+   "description": "A framework css",
+   "main": "index.js",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ryanmattos/komply-ui.git"
+   },
+   "author": "ryanmattos <ryanferreiradematos@gmail.com>",
+   "license": "MIT",
+   "dependencies": {},
+   "devDependencies": {},
+   "private": false
+}
