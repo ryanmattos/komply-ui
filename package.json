@@ -1,6 +1,6 @@
 {
    "name": "komply",
-   "version": "1.0.0",
+   "version": "1.0.1-beta1",
    "description": "A framework css",
    "main": "index.js",
    "repository": {
